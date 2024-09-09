@@ -20,4 +20,5 @@ Lista de operaciones que se deben practicar:
 - Revisar si una matriz es unitaria
 - Revisar si una matriz es Hermitiana
 - Producto tensor de dos matrices/vectores
+
 En cada taller cuyos están enumerados de 1 al 4 se trabajaron de diferentes maneras usando la Liberia NumPy de Python
